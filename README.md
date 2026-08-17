@@ -14,9 +14,9 @@ I'm a BI developer in Ottawa. As a PharmD with ten years in the pharma industry,
 
 ### What I work with
 
-- **BI & visualization** — Power BI · DAX · Power Query · Tableau
-- **Data** — SQL · Snowflake · SQLite
-- **Python** — pandas · scikit-learn
-- **Everyday tools** — Git · VS Code · Figma · Claude Code
+- **BI & visualization** | Power BI · DAX · Power Query · Tableau
+- **Data** | SQL · Snowflake · SQLite
+- **Python** | pandas · scikit-learn
+- **Everyday tools** | Git · VS Code · Figma · Claude Code
 
 Start with Cortonis-Pharma-Sales-Dashboard for the Power BI work, or Healthcare-Autoclaims if you want to see an LLM pipeline end to end. 
