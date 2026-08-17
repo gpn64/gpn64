@@ -19,6 +19,4 @@ I'm a BI developer in Ottawa. As a PharmD with ten years in the pharma industry,
 - **Python** — pandas · scikit-learn
 - **Everyday tools** — Git · VS Code · Figma · Claude Code
 
-### Have a look at
-
-The pinned repos below are the ones worth your time. The rest is mostly notes to myself.
+Start with Cortonis-Pharma-Sales-Dashboard for the Power BI work, or Healthcare-Autoclaims if you want to see an LLM pipeline end to end. 
