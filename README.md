@@ -33,6 +33,13 @@ Python
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&labelColor=F7931E)
 
+Automation
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white&labelColor=0066FF)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white&labelColor=742774)
+![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=flat&logo=knime&logoColor=black&labelColor=FFD800)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white&labelColor=6D00CC)
+
 Everyday tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
