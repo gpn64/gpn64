@@ -4,7 +4,7 @@ This is where things end up when I build them — dashboards, scripts, weekend e
 
 For the polished, case-study version, check out **[gpn64.github.io/Portfolio](https://gpn64.github.io/Portfolio/)**.
 
----
+
 
 ## My Stack
 
@@ -18,7 +18,7 @@ For the polished, case-study version, check out **[gpn64.github.io/Portfolio](ht
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 ## Around here
 
