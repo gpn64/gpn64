@@ -40,11 +40,16 @@ Automation
 ![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=flat&logo=knime&logoColor=black&labelColor=FFD800)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white&labelColor=6D00CC)
 
+AI
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white&labelColor=D97757)
+![Ollama](https://img.shields.io/badge/Ollama-2B2B2B?style=flat&logo=ollama&logoColor=white&labelColor=2B2B2B)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat&logo=meta&logoColor=white&labelColor=0866FF)
+
 Everyday tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white&labelColor=D97757)
 
 ### Have a look at:
