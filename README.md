@@ -40,6 +40,4 @@ Everyday tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white&labelColor=D97757)
 
-### Have a look at
-
-*Everything public is open to read. The pinned ones are my current favourites.*
+### Have a look at:
