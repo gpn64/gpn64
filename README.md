@@ -14,11 +14,11 @@ I'm a BI developer in Ottawa. As a PharmD with ten years in the pharma industry,
 
 ### What I work with
 
-| | |
-| :-- | :-- |
-| **BI & visualization** | Power BI · DAX · Power Query · Tableau |
-| **Data** | SQL · Snowflake · SQLite |
-| **Python** | pandas · scikit-learn |
-| **Everyday tools** | Git · VS Code · Figma · Claude Code |
+- **BI & visualization** — Power BI · DAX · Power Query · Tableau
+- **Data** — SQL · Snowflake · SQLite
+- **Python** — pandas · scikit-learn
+- **Everyday tools** — Git · VS Code · Figma · Claude Code
 
-### Have a look at my projects
+### Have a look at
+
+The pinned repos below are the ones worth your time. The rest is mostly notes to myself.
