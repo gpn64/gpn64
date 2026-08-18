@@ -1,4 +1,3 @@
-# Guillaume Pien
 I'm a BI developer in Ottawa. As a PharmD with ten years in the pharma industry, I usually know what the healthcare data means before I chart it. These days: Power BI, SQL, a lot of Python.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-gpn64.github.io-1f6feb?style=flat&labelColor=21262d)](https://gpn64.github.io/Portfolio/)
